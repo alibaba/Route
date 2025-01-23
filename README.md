@@ -3,4 +3,6 @@ PyTorch implementation for *[ROUTE: Robust Multitask Tuning and Collaboration fo
 
 > sh route.sh
 
-The code repository will be well-organized after the paper is accepted. ROUTE's model weights and MSFT data are in the process of applying for open source permissions.
+Others will come soon!! 
+
+ROUTE's model weights and MSFT data are in the process of applying for open source permissions.
