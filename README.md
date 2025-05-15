@@ -1,5 +1,5 @@
 ## Introduction
-PyTorch implementation for *[ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://arxiv.org/pdf/2412.10138)*.
+PyTorch implementation for *[ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0)*.
 
 > sh route.sh
 
